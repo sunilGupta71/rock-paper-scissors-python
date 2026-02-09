@@ -22,5 +22,5 @@ python rock_paper_scissor.py
 
 ## Author
 
-Sunil Gupta
+Sunil 
 
